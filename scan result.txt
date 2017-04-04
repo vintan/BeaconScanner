@@ -1,0 +1,462 @@
+beacon scanning thread started
+-------------
+	UDID: 74 27 8b da b6 44 45 20 8f 0c 72 0e af 05 99 35 None
+	MAJOR: 12 34 None
+	MINOR: 43 21 None
+	MAC address:  78:a5:04:3e:1e:da
+	(Unknown): -59
+	RSSI: -51
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 43 None
+	MAJOR: 46 32 None
+	MINOR: 30 33 None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 52
+	RSSI: -69
+-------------
+	UDID: 01 04 00 cf 93 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 4
+	RSSI: -69
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 37 None
+	MAJOR: 33 30 None
+	MINOR: 39 45 None
+	MAC address:  80:7a:bf:ed:95:73
+	(Unknown): 49
+	RSSI: -84
+-------------
+	UDID: 01 04 00 73 95 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:95:73
+	(Unknown): 4
+	RSSI: -83
+-------------
+	UDID: 74 27 8b da b6 44 45 20 8f 0c 72 0e af 05 99 35 None
+	MAJOR: 12 34 None
+	MINOR: 43 21 None
+	MAC address:  78:a5:04:3e:1e:da
+	(Unknown): -59
+	RSSI: -51
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 37 None
+	MAJOR: 33 30 None
+	MINOR: 39 45 None
+	MAC address:  80:7a:bf:ed:95:73
+	(Unknown): 49
+	RSSI: -83
+-------------
+	UDID: 01 04 00 73 95 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:95:73
+	(Unknown): 4
+	RSSI: -84
+-------------
+	UDID: 06 13 ff 4c 00 0c 0e 00 36 cf 91 f6 09 10 b4 10 None
+	MAJOR: 59 ab None
+	MINOR: 0c 79 None
+	MAC address:  6c:d2:3f:c3:88:3c
+	(Unknown): -112
+	RSSI: -68
+----------
+78:a5:04:3e:1e:da,74278bdab64445208f0c720eaf059935,4660,17185,-59,-51
+78:a5:04:3e:1e:da,74278bdab64445208f0c720eaf059935,4660,17185,-59,-51
+-------------
+	UDID: 01 04 01 3c 88 None
+	MAJOR: c3 3f None
+	MINOR: d2 6c None
+	MAC address:  6c:d2:3f:c3:88:3c
+	(Unknown): 0
+	RSSI: -68
+-------------
+	UDID: 74 27 8b da b6 44 45 20 8f 0c 72 0e af 05 99 35 None
+	MAJOR: 12 34 None
+	MINOR: 43 21 None
+	MAC address:  78:a5:04:3e:1e:da
+	(Unknown): -59
+	RSSI: -62
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 37 None
+	MAJOR: 33 30 None
+	MINOR: 39 45 None
+	MAC address:  80:7a:bf:ed:95:73
+	(Unknown): 49
+	RSSI: -84
+-------------
+	UDID: 01 04 00 73 95 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:95:73
+	(Unknown): 4
+	RSSI: -83
+-------------
+	UDID: 74 27 8b da b6 44 45 20 8f 0c 72 0e af 05 99 35 None
+	MAJOR: 12 34 None
+	MINOR: 43 21 None
+	MAC address:  78:a5:04:3e:1e:da
+	(Unknown): -59
+	RSSI: -62
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 43 None
+	MAJOR: 46 32 None
+	MINOR: 30 33 None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 52
+	RSSI: -75
+-------------
+	UDID: 01 04 00 cf 93 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 4
+	RSSI: -75
+-------------
+	UDID: 74 27 8b da b6 44 45 20 8f 0c 72 0e af 05 99 35 None
+	MAJOR: 12 34 None
+	MINOR: 43 21 None
+	MAC address:  78:a5:04:3e:1e:da
+	(Unknown): -59
+	RSSI: -54
+-------------
+	UDID: 06 13 ff 4c 00 0c 0e 00 36 cf 91 f6 09 10 b4 10 None
+	MAJOR: 59 ab None
+	MINOR: 0c 79 None
+	MAC address:  6c:d2:3f:c3:88:3c
+	(Unknown): -112
+	RSSI: -72
+-------------
+	UDID: 01 04 01 3c 88 None
+	MAJOR: c3 3f None
+	MINOR: d2 6c None
+	MAC address:  6c:d2:3f:c3:88:3c
+	(Unknown): 0
+	RSSI: -71
+----------
+78:a5:04:3e:1e:da,74278bdab64445208f0c720eaf059935,4660,17185,-59,-62
+78:a5:04:3e:1e:da,74278bdab64445208f0c720eaf059935,4660,17185,-59,-62
+78:a5:04:3e:1e:da,74278bdab64445208f0c720eaf059935,4660,17185,-59,-54
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 37 None
+	MAJOR: 33 30 None
+	MINOR: 39 45 None
+	MAC address:  80:7a:bf:ed:95:73
+	(Unknown): 49
+	RSSI: -83
+-------------
+	UDID: 01 04 00 73 95 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:95:73
+	(Unknown): 4
+	RSSI: -82
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 43 None
+	MAJOR: 46 32 None
+	MINOR: 30 33 None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 52
+	RSSI: -74
+-------------
+	UDID: 01 04 00 cf 93 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 4
+	RSSI: -74
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 37 None
+	MAJOR: 33 30 None
+	MINOR: 39 45 None
+	MAC address:  80:7a:bf:ed:95:73
+	(Unknown): 49
+	RSSI: -83
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 43 None
+	MAJOR: 46 32 None
+	MINOR: 30 33 None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 52
+	RSSI: -76
+-------------
+	UDID: 01 04 00 cf 93 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 4
+	RSSI: -75
+-------------
+	UDID: 74 27 8b da b6 44 45 20 8f 0c 72 0e af 05 99 35 None
+	MAJOR: 12 34 None
+	MINOR: 43 21 None
+	MAC address:  78:a5:04:3e:1e:da
+	(Unknown): -59
+	RSSI: -62
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 37 None
+	MAJOR: 33 30 None
+	MINOR: 39 45 None
+	MAC address:  80:7a:bf:ed:95:73
+	(Unknown): 49
+	RSSI: -82
+-------------
+	UDID: 74 27 8b da b6 44 45 20 8f 0c 72 0e af 05 99 35 None
+	MAJOR: 12 34 None
+	MINOR: 43 21 None
+	MAC address:  78:a5:04:3e:1e:da
+	(Unknown): -59
+	RSSI: -56
+----------
+78:a5:04:3e:1e:da,74278bdab64445208f0c720eaf059935,4660,17185,-59,-62
+78:a5:04:3e:1e:da,74278bdab64445208f0c720eaf059935,4660,17185,-59,-56
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 43 None
+	MAJOR: 46 32 None
+	MINOR: 30 33 None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 52
+	RSSI: -75
+-------------
+	UDID: 01 04 00 cf 93 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 4
+	RSSI: -74
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 43 None
+	MAJOR: 46 32 None
+	MINOR: 30 33 None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 52
+	RSSI: -75
+-------------
+	UDID: 01 04 00 cf 93 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 4
+	RSSI: -75
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 37 None
+	MAJOR: 33 30 None
+	MINOR: 39 45 None
+	MAC address:  80:7a:bf:ed:95:73
+	(Unknown): 49
+	RSSI: -84
+-------------
+	UDID: 01 04 00 73 95 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:95:73
+	(Unknown): 4
+	RSSI: -83
+-------------
+	UDID: 74 27 8b da b6 44 45 20 8f 0c 72 0e af 05 99 35 None
+	MAJOR: 12 34 None
+	MINOR: 43 21 None
+	MAC address:  78:a5:04:3e:1e:da
+	(Unknown): -59
+	RSSI: -54
+-------------
+	UDID: 06 13 ff 4c 00 0c 0e 00 36 cf 91 f6 09 10 b4 10 None
+	MAJOR: 59 ab None
+	MINOR: 0c 79 None
+	MAC address:  6c:d2:3f:c3:88:3c
+	(Unknown): -112
+	RSSI: -72
+-------------
+	UDID: 01 04 01 3c 88 None
+	MAJOR: c3 3f None
+	MINOR: d2 6c None
+	MAC address:  6c:d2:3f:c3:88:3c
+	(Unknown): 0
+	RSSI: -71
+-------------
+	UDID: 74 27 8b da b6 44 45 20 8f 0c 72 0e af 05 99 35 None
+	MAJOR: 12 34 None
+	MINOR: 43 21 None
+	MAC address:  78:a5:04:3e:1e:da
+	(Unknown): -59
+	RSSI: -51
+----------
+78:a5:04:3e:1e:da,74278bdab64445208f0c720eaf059935,4660,17185,-59,-54
+78:a5:04:3e:1e:da,74278bdab64445208f0c720eaf059935,4660,17185,-59,-51
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 43 None
+	MAJOR: 46 32 None
+	MINOR: 30 33 None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 52
+	RSSI: -75
+-------------
+	UDID: 01 04 00 cf 93 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 4
+	RSSI: -75
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 37 None
+	MAJOR: 33 30 None
+	MINOR: 39 45 None
+	MAC address:  80:7a:bf:ed:95:73
+	(Unknown): 49
+	RSSI: -84
+-------------
+	UDID: 01 04 00 73 95 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:95:73
+	(Unknown): 4
+	RSSI: -83
+-------------
+	UDID: 06 13 ff 4c 00 0c 0e 00 36 cf 91 f6 09 10 b4 10 None
+	MAJOR: 59 ab None
+	MINOR: 0c 79 None
+	MAC address:  6c:d2:3f:c3:88:3c
+	(Unknown): -112
+	RSSI: -67
+-------------
+	UDID: 01 04 01 3c 88 None
+	MAJOR: c3 3f None
+	MINOR: d2 6c None
+	MAC address:  6c:d2:3f:c3:88:3c
+	(Unknown): 0
+	RSSI: -68
+-------------
+	UDID: 74 27 8b da b6 44 45 20 8f 0c 72 0e af 05 99 35 None
+	MAJOR: 12 34 None
+	MINOR: 43 21 None
+	MAC address:  78:a5:04:3e:1e:da
+	(Unknown): -59
+	RSSI: -51
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 43 None
+	MAJOR: 46 32 None
+	MINOR: 30 33 None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 52
+	RSSI: -75
+-------------
+	UDID: 01 04 00 cf 93 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 4
+	RSSI: -75
+-------------
+	UDID: 74 27 8b da b6 44 45 20 8f 0c 72 0e af 05 99 35 None
+	MAJOR: 12 34 None
+	MINOR: 43 21 None
+	MAC address:  78:a5:04:3e:1e:da
+	(Unknown): -59
+	RSSI: -51
+----------
+78:a5:04:3e:1e:da,74278bdab64445208f0c720eaf059935,4660,17185,-59,-51
+78:a5:04:3e:1e:da,74278bdab64445208f0c720eaf059935,4660,17185,-59,-51
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 43 None
+	MAJOR: 46 32 None
+	MINOR: 30 33 None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 52
+	RSSI: -75
+-------------
+	UDID: 01 04 00 cf 93 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 4
+	RSSI: -75
+-------------
+	UDID: 74 27 8b da b6 44 45 20 8f 0c 72 0e af 05 99 35 None
+	MAJOR: 12 34 None
+	MINOR: 43 21 None
+	MAC address:  78:a5:04:3e:1e:da
+	(Unknown): -59
+	RSSI: -60
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 43 None
+	MAJOR: 46 32 None
+	MINOR: 30 33 None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 52
+	RSSI: -75
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 43 None
+	MAJOR: 46 32 None
+	MINOR: 30 33 None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 52
+	RSSI: -75
+-------------
+	UDID: 01 04 00 cf 93 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 4
+	RSSI: -75
+-------------
+	UDID: 74 27 8b da b6 44 45 20 8f 0c 72 0e af 05 99 35 None
+	MAJOR: 12 34 None
+	MINOR: 43 21 None
+	MAC address:  78:a5:04:3e:1e:da
+	(Unknown): -59
+	RSSI: -51
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 43 None
+	MAJOR: 46 32 None
+	MINOR: 30 33 None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 52
+	RSSI: -75
+-------------
+	UDID: 01 04 00 cf 93 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 4
+	RSSI: -75
+-------------
+	UDID: 74 27 8b da b6 44 45 20 8f 0c 72 0e af 05 99 35 None
+	MAJOR: 12 34 None
+	MINOR: 43 21 None
+	MAC address:  78:a5:04:3e:1e:da
+	(Unknown): -59
+	RSSI: -60
+----------
+78:a5:04:3e:1e:da,74278bdab64445208f0c720eaf059935,4660,17185,-59,-60
+78:a5:04:3e:1e:da,74278bdab64445208f0c720eaf059935,4660,17185,-59,-51
+78:a5:04:3e:1e:da,74278bdab64445208f0c720eaf059935,4660,17185,-59,-60
+-------------
+	UDID: 06 13 ff 4c 00 0c 0e 00 36 cf 91 f6 09 10 b4 10 None
+	MAJOR: 59 ab None
+	MINOR: 0c 79 None
+	MAC address:  6c:d2:3f:c3:88:3c
+	(Unknown): -112
+	RSSI: -71
+-------------
+	UDID: 01 04 01 3c 88 None
+	MAJOR: c3 3f None
+	MINOR: d2 6c None
+	MAC address:  6c:d2:3f:c3:88:3c
+	(Unknown): 0
+	RSSI: -71
+-------------
+	UDID: 01 05 03 03 00 cb 0e 09 48 54 43 20 42 53 20 43 None
+	MAJOR: 46 32 None
+	MINOR: 30 33 None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 52
+	RSSI: -74
+-------------
+	UDID: 01 04 00 cf 93 ed bf 7a None
+	MAJOR: 80 03 None
+	MINOR: 02 0a None
+	MAC address:  80:7a:bf:ed:93:cf
+	(Unknown): 4
+	RSSI: -74
